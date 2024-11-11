@@ -41,17 +41,17 @@ Make sure you have the following installed:
 # Screenshots :
 
 **Homepage**
-![](screenshot/1.png)
+![](screenshots/1.png)
 
 **Admin page**
-![](screenshot/2.png)
+![](screenshots/2.png)
 
 **User page**
-![](screeshot/3.png)
+![](screeshots/3.png)
 
 **Movie page**
-![](screenshot/4.png)
+![](screenshots/4.png)
 
 **movie**
-![](screenshot/5.png)
+![](screenshots/5.png)
 
